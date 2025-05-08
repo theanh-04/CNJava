@@ -1,0 +1,11 @@
+.custom-table {
+    color: black; /* Màu chữ */
+    background-color: hotpink; /* Màu nền */
+    border: 2px solid black; /* Viền bảng */
+}
+
+.custom-table th, .custom-table td {
+    border: 1px solid black; /* Viền từng ô */
+    padding: 10px;
+    text-align: center;
+}
